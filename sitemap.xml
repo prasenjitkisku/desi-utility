@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev//</loc></url>
-  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev//tools/percentage-calculator.html</loc></url>
-  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev//tools/age-calculator.html</loc></url>
-  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev//tools/date-calculator.html</loc></url>
-  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev//tools/word-counter.html</loc></url>
-  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev//tools/case-converter.html</loc></url>
-  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev//tools/text-cleaner.html</loc></url>
-  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev//about.html</loc></url>
-  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev//contact.html</loc></url>
-  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev//privacy-policy.html</loc></url>
-  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev//terms.html</loc></url>
+  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev/</loc></url>
+  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev/about.html</loc></url>
+  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev/contact.html</loc></url>
+  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev/privacy-policy.html</loc></url>
+  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev/terms.html</loc></url>
+  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev/tools/image-compressor.html</loc></url>
+  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev/tools/image-resizer.html</loc></url>
+  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev/tools/image-converter.html</loc></url>
+  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev/tools/image-cropper.html</loc></url>
+  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev/tools/pdf-merge.html</loc></url>
+  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev/tools/pdf-split.html</loc></url>
+  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev/tools/pdf-rotate.html</loc></url>
+  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev/tools/jpg-to-pdf.html</loc></url>
+  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev/tools/pdf-compressor.html</loc></url>
+  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev/tools/percentage-calculator.html</loc></url>
+  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev/tools/age-calculator.html</loc></url>
+  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev/tools/date-calculator.html</loc></url>
+  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev/tools/word-counter.html</loc></url>
+  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev/tools/case-converter.html</loc></url>
+  <url><loc>https://desi-utility.prasenjitkisku307.workers.dev/tools/text-cleaner.html</loc></url>
 </urlset>

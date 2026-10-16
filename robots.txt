@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://desi-utility.prasenjitkisku307.workers.dev/
+
+Sitemap: https://desi-utility.prasenjitkisku307.workers.dev/sitemap.xml

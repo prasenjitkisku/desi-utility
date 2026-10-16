@@ -35,3 +35,10 @@ IMPORTANT
 - AdSense approval and earnings are not guaranteed. Apply only after the site has useful original content and complies with current policies.
 - The homepage has English/Hindi/Bengali UI translations. Tool pages are currently English and can be localized in a later version.
 - Test date and text tools with your expected use cases before relying on results.
+
+
+NEW IMAGE AND PDF TOOLS
+- Image compressor, resizer, converter and cropper run in browser canvas.
+- PDF merge, split, rotate, JPG-to-PDF and raster-based PDF compressor use PDF libraries loaded from CDNs. An internet connection is needed for these PDF tools.
+- PDF compressor rasterizes pages and may reduce quality or make text unselectable; review output before use.
+- Updated sitemap.xml and robots.txt use the current Cloudflare Pages URL provided by the site owner.
